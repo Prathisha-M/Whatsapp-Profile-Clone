@@ -10,8 +10,20 @@
     "test": "jest"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.5.2",
+    "@fortawesome/free-solid-svg-icons": "^6.5.2",
+    "@fortawesome/react-native-fontawesome": "^0.3.2",
+    "@react-native-camera-roll/camera-roll": "^7.8.1",
+    "expo-image-picker": "^15.0.7",
     "react": "18.2.0",
-    "react-native": "0.74.3"
+    "react-native": "0.74.3",
+    "react-native-fontawesome": "^7.0.0",
+    "react-native-fs": "^2.20.0",
+    "react-native-gesture-handler": "^2.17.1",
+    "react-native-image-picker": "^7.1.2",
+    "react-native-material-menu": "^2.0.0",
+    "react-native-svg": "^15.4.0",
+    "react-native-vector-icons": "^10.1.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
